@@ -9,7 +9,7 @@ The program is implemented using custom queue and stack structures without using
 
 ## How to Run
 Compile and execute the program using:
-g++ campus_navigation_system.cpp -o campus
+g++ "Dsa project.cpp" -o campus
 ./campus
 
 Author: Ariba Saman
